@@ -89,4 +89,5 @@ void loop() {
 
 
 /* We are currently just scanning for a specific BlueUp beacon. We need to add a command to actually connect to the device. 
-Then, from there we can start looking at characteristics of the device such as determining distance. *\
+Then, from there we can start looking at characteristics of the device such as determining distance. The library we use is on the 
+following website https://www.arduino.cc/en/Reference/ArduinoBLE *\
